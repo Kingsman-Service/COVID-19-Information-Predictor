@@ -1,4 +1,4 @@
-# 💉 COVID-19-Information-Predictor 💉
+# 💉 COVID-19-Information-Predictor💉
 
 The model is described in this paper:
 https://www.aclweb.org/anthology/2020.wnut-1.55/
