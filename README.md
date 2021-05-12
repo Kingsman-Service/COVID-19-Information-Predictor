@@ -3,7 +3,7 @@
 The model is described in this paper:
 https://www.aclweb.org/anthology/2020.wnut-1.55/
 
-## Contributer
+## ✒️ Contributer
 - [PiyalJannat](https://github.com/Piyaljannat)  
 - [farin15](https://github.com/farin15)
 - [tashinhoss](https://github.com/tashinhoss)
