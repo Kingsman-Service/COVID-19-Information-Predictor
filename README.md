@@ -9,7 +9,8 @@ https://www.aclweb.org/anthology/2020.wnut-1.55/
 - [tashinhoss](https://github.com/tashinhoss)
 - [radiathuntasnia](https://github.com/radiathuntasnia)
 
-\*Equal Contribution
+## ✒️ Repo design  
+- [farin15](https://github.com/farin15)
 
 ## Demonstration
 
